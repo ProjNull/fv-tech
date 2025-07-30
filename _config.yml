@@ -13,5 +13,14 @@ defaults:
 
 nav_enabled: true
 
+nav_error_report: true
+
+color_scheme: dark
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template

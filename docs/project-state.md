@@ -1,5 +1,6 @@
 ---
 tile: Project State
+nav_order: 1
 ---
 
 This Project is currently in early development meaning that this wiki is currently used as placeholder/testing ground.

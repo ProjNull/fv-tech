@@ -1,5 +1,5 @@
 ---
-tile: Project State
+title: Project State
 nav_order: 2
 ---
 

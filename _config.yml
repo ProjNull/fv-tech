@@ -22,7 +22,6 @@ color_scheme: dark
 permalink: pretty
 
 
-
 callouts:
   warning:
     title: Warning
